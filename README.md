@@ -1,4 +1,4 @@
 # back-end
 
 ## setup
-Using Colab 3
+Using Google Colab to build the spoiler-block-model classifier
